@@ -227,7 +227,7 @@ Note: l’invite à droite est une seule ligne, sur la même ligne que l’entr�
 
 `right_format` is currently supported for the following shells: elvish, fish, zsh, xonsh, cmd, nushell, bash.
 
-Note: The [Ble.sh](https://github.com/akinomyoga/ble.sh) framework v0.4 or higher should be installed in order to use right prompt in bash.
+Note: Either the [Ble.sh](https://github.com/akinomyoga/ble.sh) framework (v0.4 or higher) or [flyline](https://github.com/HalFrgrd/flyline) should be installed in order to use right prompt in bash.
 
 ### Exemple
 
